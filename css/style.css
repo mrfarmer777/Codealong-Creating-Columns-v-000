@@ -80,7 +80,7 @@ img, video, audio {
 /*/////// Layout /////////*/
 .wrapper{
   width:960px;
-  margin: 0 auto; /*Best practice for centering*/  
+  margin: 0 auto; /*Best practice for centering*/
 }
 
 .col-1 {
@@ -94,7 +94,7 @@ img, video, audio {
 }
 
 .col-3 {
-  background-color:blue
+  
 }
 
 [class="col-"]{ /*Any element whose class includes col-, give it a margin*/
