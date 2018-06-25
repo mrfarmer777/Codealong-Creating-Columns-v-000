@@ -48,7 +48,7 @@ figcaption {
 /* ID selector (apply to one unique element per page) */
 
 #logo { /* select elements with id="logo" */
-  background: aqua;
+  background: #fff;
 }
 
 /* Descendent Selector */
@@ -148,5 +148,5 @@ section{
   display:block;
   width:40px;
   height:40px;
-  
+
 }
