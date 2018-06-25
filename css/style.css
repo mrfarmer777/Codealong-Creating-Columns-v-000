@@ -89,7 +89,7 @@ figcaption {
 }
 
 .col-3 {
-  background-color:#808080
+  background-color:blue
 }
 
 [class="col-"]{ /*Any element whose class includes col-, give it a margin*/
