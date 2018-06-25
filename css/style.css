@@ -81,15 +81,17 @@ figcaption {
 .col-1 {
   float: left;
   width:32%;
-  margin:0 2%;
 }
 
 .col-2 {
   float: left;
   width:66%;
-  margin: 0 2%;
 }
 
 .col-3 {
   background-color:#808080
+}
+
+[class="col-"]{ /*Any element whose class includes col-, give it a margin*/
+  margin-left:2%;
 }
