@@ -74,6 +74,6 @@ figcaption {
 /*/////// Layout /////////*/
 .wrapper{
   width:960px;
-  margin: 0, auto; /*Best practice for centering*/
+  margin: 0 auto; /*Best practice for centering*/
   background-color:lightgray;
 }
