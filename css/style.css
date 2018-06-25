@@ -94,7 +94,7 @@ img, video, audio {
 }
 
 .col-3 {
-  
+
 }
 
 [class="col-"]{ /*Any element whose class includes col-, give it a margin*/
@@ -112,4 +112,10 @@ img, video, audio {
   visibility:hidden;
   height:0;
   line-height:0;
+}
+
+/*////////////SECTIONS///////////////*/
+section{
+  margin-bottom:20px;
+  padding:20px
 }
