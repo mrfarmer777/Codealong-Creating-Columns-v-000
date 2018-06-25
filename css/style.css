@@ -95,3 +95,7 @@ figcaption {
 [class="col-"]{ /*Any element whose class includes col-, give it a margin*/
   margin-left:2%;
 }
+
+.first {
+  margin-left:0%;
+}
