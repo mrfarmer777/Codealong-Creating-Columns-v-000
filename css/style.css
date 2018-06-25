@@ -79,7 +79,7 @@ img, video, audio {
 
 /*/////// Layout /////////*/
 .wrapper{
-  width:1080px;
+  width:960px;
   margin: 0 auto; /*Best practice for centering*/
   background-color:lightgray;
 }
