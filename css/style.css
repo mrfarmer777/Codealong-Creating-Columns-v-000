@@ -77,3 +77,19 @@ figcaption {
   margin: 0 auto; /*Best practice for centering*/
   background-color:lightgray;
 }
+
+.col-1 {
+  float: left;
+  width:32%;
+  margin:0 2%;
+}
+
+.col-2 {
+  float: left;
+  width:66%;
+  margin: 0 2%;
+}
+
+.col-3 {
+  
+}
